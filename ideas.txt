@@ -1,0 +1,25 @@
+ideas personajes
+
+guerrero:
+250 hp
+ataques:
+golpe fuerte
+golpe ancho (2 enemigos)
+bloqueo con espada
+
+mago:
+175 hp
+0/100 mana
+ataques:
+bola de fuego 20 mana
+rayo magico 20 mana
+curar 50 mana
+bloqueo magico todo el mana, por porcentaje equivalente (full mana = 100% bloqueado)
+esperar (+20 mana, normalmente 10)
+
+garrafa de gas:
+300 hp 
+gas 0/50
+tirar gas 20 gas (potencia bola de fuego)
+resplandor final 50 gas
+no hace nada
