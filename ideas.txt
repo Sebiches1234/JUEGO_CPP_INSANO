@@ -23,3 +23,40 @@ gas 0/50
 tirar gas 20 gas (potencia bola de fuego)
 resplandor final 50 gas
 no hace nada
+
+
+
+
+enemigos:
+
+barbaro:
+50 hp
+ataque singular
+aumenta defensa
+
+nigromante:
+75 hp
+hace aparecer un esqueleto
+bufea al esqueleto (def, atk) cuando es atacado
+no ataca directamente
+
+esqueleto:
+50 hp
+solo aparece por el nigromante
+ataque singular
+
+fantasma:
+25 hp
+alta evasion, poca vida
+ataque singular
+ataque en area 2 aliados
+
+JEFE:
+
+ruedacuevas:
+300 hp
+ataque singular
+(chance de veneno)
+(chance de paralizar)
+ataque a todos
+curacion de 20 hp
